@@ -1,0 +1,207 @@
+[+] Containers:
+ |- [+] Container: /Game/FirstPerson/Maps/FirstPersonMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:21BDE38E40FDF50AD6A577BD07AA3AAE BaseClass:/Game/Blueprints/DeadTreeSkullLantern1.DeadTreeSkullLantern1_C NativeClass:/Script/Engine.Actor Name:DeadTreeSkullLantern1_C_UAID_08BFB80481DF37F601_1232638450 Label:DeadTreeSkullLantern6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2318.630 Y=1083.679 Z=-115.686), Max=(X=3396.095 Y=2065.080 Z=989.656) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:294AB2A1468FE2C1CD13C2875042A72D BaseClass: NativeClass:/Script/Engine.Emitter Name:Emitter_UAID_08BFB80481DF28F601_1904412976 Label:P_Steam_Lit6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1288.282 Y=-5231.129 Z=-6721.560), Max=(X=17279.983 Y=11553.621 Z=9660.574) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Fog FolderGuid:E5F18ED94E3503C66B6388AD15EEFEC2
+ |   |   |- Guid:371026D34E081113094C4E86D2260247 BaseClass:/Game/Blueprints/AccursedSkull.AccursedSkull_C NativeClass:/Script/Engine.Actor Name:AccursedSkull_C_UAID_08BFB80481DF2CF601_1578306684 Label:AccursedSkull SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1587.224 Y=288.915 Z=101.329), Max=(X=1808.108 Y=469.616 Z=377.664) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:391E8D1D429691361A6EDF8B13340F8E BaseClass:/Game/Blueprints/DeadTreeSkullLantern1.DeadTreeSkullLantern1_C NativeClass:/Script/Engine.Actor Name:DeadTreeSkullLantern1_C_UAID_08BFB80481DF26F601_1510206049 Label:DeadTreeSkullLantern3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1379.570 Y=1763.536 Z=-135.686), Max=(X=2263.105 Y=2486.340 Z=969.656) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4E0C522D4361200706AF5EB45060C627 BaseClass:/Game/Blueprints/BigStumpPlatform.BigStumpPlatform_C NativeClass:/Script/Engine.Actor Name:BigStumpPlatform_C_UAID_08BFB80481DF34F601_1844736702 Label:BigStumpPlatform SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2283.868 Y=277.525 Z=-525.255), Max=(X=2675.868 Y=646.649 Z=-280.984) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5415EFF1444332ED019097BF56FF9C8B BaseClass: NativeClass:/Script/Engine.Emitter Name:Emitter_UAID_08BFB80481DF28F601_1894028975 Label:P_Steam_Lit5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5408.282 Y=-12516.129 Z=-6721.560), Max=(X=13159.983 Y=4268.621 Z=9660.574) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Fog FolderGuid:E5F18ED94E3503C66B6388AD15EEFEC2
+ |   |   |- Guid:6274021E492381D4AC9A919AC0EBA887 BaseClass:/Game/Blueprints/CircleLillyPad.CircleLillyPad_C NativeClass:/Script/Engine.Actor Name:CircleLillyPad_C_UAID_08BFB80481DF38F601_2107668964 Label:CircleLillyPad SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3900.271 Y=677.816 Z=-432.439), Max=(X=4120.582 Y=904.542 Z=45.334) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:67F7E0F143868FE8C7DFEEB65FE70FC8 BaseClass:/Game/Blueprints/BigStumpPlatform.BigStumpPlatform_C NativeClass:/Script/Engine.Actor Name:BigStumpPlatform_C_UAID_08BFB80481DF37F601_1197402231 Label:BigStumpPlatform2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2890.868 Y=-121.475 Z=-525.255), Max=(X=3282.868 Y=247.649 Z=-280.984) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6FEFB3BD4EB37B849EF0D4AC80F83855 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:74439BB44D27A2D5879D47AB211A76A0 BaseClass:/Game/Blueprints/DeadTreeSkullLantern1.DeadTreeSkullLantern1_C NativeClass:/Script/Engine.Actor Name:DeadTreeSkullLantern1_C_UAID_08BFB80481DF26F601_1541922192 Label:DeadTreeSkullLantern4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2.430 Y=1492.536 Z=-130.686), Max=(X=881.105 Y=2215.340 Z=974.656) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:78CAF7514C7533F30BD2F19A017AAB65 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_0 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2440.000 Y=-700.000 Z=-100.000), Max=(X=1960.000 Y=1390.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:LevelLayout FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- Guid:7961342E4A4575D6F02CD798438E90C6 BaseClass:/Game/Blueprints/DeadTreeSkullLantern1.DeadTreeSkullLantern1_C NativeClass:/Script/Engine.Actor Name:DeadTreeSkullLantern1_C_UAID_08BFB80481DF26F601_1486666744 Label:DeadTreeSkullLantern1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=548.895 Y=-1409.340 Z=-110.686), Max=(X=1432.430 Y=-686.536 Z=994.656) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8D59A4F44D576C8A2E14CC923933DA8C BaseClass:/Game/Blueprints/BigStumpPlatform.BigStumpPlatform_C NativeClass:/Script/Engine.Actor Name:BigStumpPlatform_C_UAID_08BFB80481DF37F601_1200760232 Label:BigStumpPlatform3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3437.868 Y=396.525 Z=-525.255), Max=(X=3829.868 Y=765.649 Z=-280.984) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8D7730714B5AF00017F969A70F47AF1D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_08BFB80481DFF8F501_1172106527 Label:SM_Cube13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1958.000 Y=989.000 Z=-100.000), Max=(X=2558.000 Y=1089.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:LevelLayout FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- Guid:9AC21B114954C7245ACE8FB4AC018F36 BaseClass:/Game/Blueprints/DeadTreeSkullLantern1.DeadTreeSkullLantern1_C NativeClass:/Script/Engine.Actor Name:DeadTreeSkullLantern1_C_UAID_08BFB80481DF26F601_1502604902 Label:DeadTreeSkullLantern2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1478.895 Y=-1664.340 Z=-115.686), Max=(X=2362.430 Y=-941.536 Z=989.656) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A354B1B24E617A525DC6B48CCDE2417E BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=110.000 Y=310.000 Z=0.013), Max=(X=190.000 Y=390.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A5F3413F4DB1F95BE0B52E83917EB2BC BaseClass:/Game/Blueprints/Deathplane.Deathplane_C NativeClass:/Script/Engine.Actor Name:Deathplane_C_UAID_08BFB80481DF37F601_1645346784 Label:Deathplane SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-500287.000 Y=-499511.000 Z=-379.000), Max=(X=499713.000 Y=500489.000 Z=-379.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:AD5171E1431149D436F8888B759A382B BaseClass:/Game/Blueprints/AccursedSkull.AccursedSkull_C NativeClass:/Script/Engine.Actor Name:AccursedSkull_C_UAID_08BFB80481DF3FF601_2144408197 Label:AccursedSkull2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3045.224 Y=-61.085 Z=101.329), Max=(X=3266.108 Y=119.616 Z=377.664) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B25EF94F418C0D6E40E1CD9CA5D4FE1B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_08BFB80481DF37F601_2036873785 Label:Plane SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-99161.000 Y=-99714.000 Z=-23.000), Max=(X=100839.000 Y=100286.000 Z=-23.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BB23C6A34027418A29DB849BB37E1B4C BaseClass:/Game/Blueprints/DeadTreeSkullLantern1.DeadTreeSkullLantern1_C NativeClass:/Script/Engine.Actor Name:DeadTreeSkullLantern1_C_UAID_08BFB80481DF37F601_1208988233 Label:DeadTreeSkullLantern5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3496.105 Y=-313.351 Z=-115.686), Max=(X=4563.839 Y=813.215 Z=989.656) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C0C56B9644AE3D40CAFF6A878DB29844 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:C494CFCE48D53B2E298594AEFA40E972 BaseClass:/Game/Blueprints/DeadTreeSkullLantern1.DeadTreeSkullLantern1_C NativeClass:/Script/Engine.Actor Name:DeadTreeSkullLantern1_C_UAID_08BFB80481DF37F601_1238959603 Label:DeadTreeSkullLantern7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2307.905 Y=-954.080 Z=-115.686), Max=(X=3385.370 Y=27.321 Z=989.656) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C6FE12FB434747AF177D86B96665DAFD BaseClass: NativeClass:/Script/Engine.Emitter Name:Emitter_UAID_08BFB80481DF28F601_1894027974 Label:P_Steam_Lit4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1288.282 Y=-12516.129 Z=-6721.560), Max=(X=17279.983 Y=4268.621 Z=9660.574) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Fog FolderGuid:E5F18ED94E3503C66B6388AD15EEFEC2
+ |   |   |- Guid:CE8D82634660FCDB3120E2B8D547C533 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:EF9327864044E8A04097D88F9A5F3126 BaseClass:/Game/Blueprints/AccursedSkull.AccursedSkull_C NativeClass:/Script/Engine.Actor Name:AccursedSkull_C_UAID_08BFB80481DF40F601_1103793374 Label:AccursedSkull3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2420.224 Y=394.915 Z=101.329), Max=(X=2641.108 Y=575.616 Z=377.664) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F80621C9446867154938FE81375207DA BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:FD0CFB9D4B50FD92A0D87D82C6D07E8F BaseClass: NativeClass:/Script/Engine.Emitter Name:Emitter_UAID_08BFB80481DF28F601_1904413977 Label:P_Steam_Lit7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5408.282 Y=-5231.129 Z=-6721.560), Max=(X=13159.983 Y=11553.621 Z=9660.574) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Fog FolderGuid:E5F18ED94E3503C66B6388AD15EEFEC2
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:21BDE38E40FDF50AD6A577BD07AA3AAE BaseClass:/Game/Blueprints/DeadTreeSkullLantern1.DeadTreeSkullLantern1_C NativeClass:/Script/Engine.Actor Name:DeadTreeSkullLantern1_C_UAID_08BFB80481DF37F601_1232638450 Label:DeadTreeSkullLantern6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2318.630 Y=1083.679 Z=-115.686), Max=(X=3396.095 Y=2065.080 Z=989.656) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:294AB2A1468FE2C1CD13C2875042A72D BaseClass: NativeClass:/Script/Engine.Emitter Name:Emitter_UAID_08BFB80481DF28F601_1904412976 Label:P_Steam_Lit6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1288.282 Y=-5231.129 Z=-6721.560), Max=(X=17279.983 Y=11553.621 Z=9660.574) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Fog FolderGuid:E5F18ED94E3503C66B6388AD15EEFEC2
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:371026D34E081113094C4E86D2260247 BaseClass:/Game/Blueprints/AccursedSkull.AccursedSkull_C NativeClass:/Script/Engine.Actor Name:AccursedSkull_C_UAID_08BFB80481DF2CF601_1578306684 Label:AccursedSkull SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1587.224 Y=288.915 Z=101.329), Max=(X=1808.108 Y=469.616 Z=377.664) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:4E0C522D4361200706AF5EB45060C627 BaseClass:/Game/Blueprints/BigStumpPlatform.BigStumpPlatform_C NativeClass:/Script/Engine.Actor Name:BigStumpPlatform_C_UAID_08BFB80481DF34F601_1844736702 Label:BigStumpPlatform SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2283.868 Y=277.525 Z=-525.255), Max=(X=2675.868 Y=646.649 Z=-280.984) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:391E8D1D429691361A6EDF8B13340F8E BaseClass:/Game/Blueprints/DeadTreeSkullLantern1.DeadTreeSkullLantern1_C NativeClass:/Script/Engine.Actor Name:DeadTreeSkullLantern1_C_UAID_08BFB80481DF26F601_1510206049 Label:DeadTreeSkullLantern3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1379.570 Y=1763.536 Z=-135.686), Max=(X=2263.105 Y=2486.340 Z=969.656) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:5415EFF1444332ED019097BF56FF9C8B BaseClass: NativeClass:/Script/Engine.Emitter Name:Emitter_UAID_08BFB80481DF28F601_1894028975 Label:P_Steam_Lit5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5408.282 Y=-12516.129 Z=-6721.560), Max=(X=13159.983 Y=4268.621 Z=9660.574) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Fog FolderGuid:E5F18ED94E3503C66B6388AD15EEFEC2
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:6274021E492381D4AC9A919AC0EBA887 BaseClass:/Game/Blueprints/CircleLillyPad.CircleLillyPad_C NativeClass:/Script/Engine.Actor Name:CircleLillyPad_C_UAID_08BFB80481DF38F601_2107668964 Label:CircleLillyPad SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3900.271 Y=677.816 Z=-432.439), Max=(X=4120.582 Y=904.542 Z=45.334) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:67F7E0F143868FE8C7DFEEB65FE70FC8 BaseClass:/Game/Blueprints/BigStumpPlatform.BigStumpPlatform_C NativeClass:/Script/Engine.Actor Name:BigStumpPlatform_C_UAID_08BFB80481DF37F601_1197402231 Label:BigStumpPlatform2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2890.868 Y=-121.475 Z=-525.255), Max=(X=3282.868 Y=247.649 Z=-280.984) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:EF9327864044E8A04097D88F9A5F3126 BaseClass:/Game/Blueprints/AccursedSkull.AccursedSkull_C NativeClass:/Script/Engine.Actor Name:AccursedSkull_C_UAID_08BFB80481DF40F601_1103793374 Label:AccursedSkull3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2420.224 Y=394.915 Z=101.329), Max=(X=2641.108 Y=575.616 Z=377.664) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:6FEFB3BD4EB37B849EF0D4AC80F83855 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:74439BB44D27A2D5879D47AB211A76A0 BaseClass:/Game/Blueprints/DeadTreeSkullLantern1.DeadTreeSkullLantern1_C NativeClass:/Script/Engine.Actor Name:DeadTreeSkullLantern1_C_UAID_08BFB80481DF26F601_1541922192 Label:DeadTreeSkullLantern4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2.430 Y=1492.536 Z=-130.686), Max=(X=881.105 Y=2215.340 Z=974.656) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:78CAF7514C7533F30BD2F19A017AAB65 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_0 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2440.000 Y=-700.000 Z=-100.000), Max=(X=1960.000 Y=1390.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:LevelLayout FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:7961342E4A4575D6F02CD798438E90C6 BaseClass:/Game/Blueprints/DeadTreeSkullLantern1.DeadTreeSkullLantern1_C NativeClass:/Script/Engine.Actor Name:DeadTreeSkullLantern1_C_UAID_08BFB80481DF26F601_1486666744 Label:DeadTreeSkullLantern1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=548.895 Y=-1409.340 Z=-110.686), Max=(X=1432.430 Y=-686.536 Z=994.656) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:8D59A4F44D576C8A2E14CC923933DA8C BaseClass:/Game/Blueprints/BigStumpPlatform.BigStumpPlatform_C NativeClass:/Script/Engine.Actor Name:BigStumpPlatform_C_UAID_08BFB80481DF37F601_1200760232 Label:BigStumpPlatform3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3437.868 Y=396.525 Z=-525.255), Max=(X=3829.868 Y=765.649 Z=-280.984) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:AD5171E1431149D436F8888B759A382B BaseClass:/Game/Blueprints/AccursedSkull.AccursedSkull_C NativeClass:/Script/Engine.Actor Name:AccursedSkull_C_UAID_08BFB80481DF3FF601_2144408197 Label:AccursedSkull2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3045.224 Y=-61.085 Z=101.329), Max=(X=3266.108 Y=119.616 Z=377.664) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:8D7730714B5AF00017F969A70F47AF1D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_08BFB80481DFF8F501_1172106527 Label:SM_Cube13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1958.000 Y=989.000 Z=-100.000), Max=(X=2558.000 Y=1089.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:LevelLayout FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:9AC21B114954C7245ACE8FB4AC018F36 BaseClass:/Game/Blueprints/DeadTreeSkullLantern1.DeadTreeSkullLantern1_C NativeClass:/Script/Engine.Actor Name:DeadTreeSkullLantern1_C_UAID_08BFB80481DF26F601_1502604902 Label:DeadTreeSkullLantern2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1478.895 Y=-1664.340 Z=-115.686), Max=(X=2362.430 Y=-941.536 Z=989.656) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:A354B1B24E617A525DC6B48CCDE2417E BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=110.000 Y=310.000 Z=0.013), Max=(X=190.000 Y=390.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:A5F3413F4DB1F95BE0B52E83917EB2BC BaseClass:/Game/Blueprints/Deathplane.Deathplane_C NativeClass:/Script/Engine.Actor Name:Deathplane_C_UAID_08BFB80481DF37F601_1645346784 Label:Deathplane SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-500287.000 Y=-499511.000 Z=-379.000), Max=(X=499713.000 Y=500489.000 Z=-379.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:B25EF94F418C0D6E40E1CD9CA5D4FE1B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_08BFB80481DF37F601_2036873785 Label:Plane SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-99161.000 Y=-99714.000 Z=-23.000), Max=(X=100839.000 Y=100286.000 Z=-23.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:BB23C6A34027418A29DB849BB37E1B4C BaseClass:/Game/Blueprints/DeadTreeSkullLantern1.DeadTreeSkullLantern1_C NativeClass:/Script/Engine.Actor Name:DeadTreeSkullLantern1_C_UAID_08BFB80481DF37F601_1208988233 Label:DeadTreeSkullLantern5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3496.105 Y=-313.351 Z=-115.686), Max=(X=4563.839 Y=813.215 Z=989.656) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:C0C56B9644AE3D40CAFF6A878DB29844 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:C494CFCE48D53B2E298594AEFA40E972 BaseClass:/Game/Blueprints/DeadTreeSkullLantern1.DeadTreeSkullLantern1_C NativeClass:/Script/Engine.Actor Name:DeadTreeSkullLantern1_C_UAID_08BFB80481DF37F601_1238959603 Label:DeadTreeSkullLantern7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2307.905 Y=-954.080 Z=-115.686), Max=(X=3385.370 Y=27.321 Z=989.656) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:C6FE12FB434747AF177D86B96665DAFD BaseClass: NativeClass:/Script/Engine.Emitter Name:Emitter_UAID_08BFB80481DF28F601_1894027974 Label:P_Steam_Lit4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1288.282 Y=-12516.129 Z=-6721.560), Max=(X=17279.983 Y=4268.621 Z=9660.574) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Fog FolderGuid:E5F18ED94E3503C66B6388AD15EEFEC2
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:CE8D82634660FCDB3120E2B8D547C533 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:F80621C9446867154938FE81375207DA BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:FD0CFB9D4B50FD92A0D87D82C6D07E8F BaseClass: NativeClass:/Script/Engine.Emitter Name:Emitter_UAID_08BFB80481DF28F601_1904413977 Label:P_Steam_Lit7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5408.282 Y=-5231.129 Z=-6721.560), Max=(X=13159.983 Y=11553.621 Z=9660.574) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Fog FolderGuid:E5F18ED94E3503C66B6388AD15EEFEC2
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/FirstPerson/Maps/FirstPersonMap
+----------------------------------------------------------------------------------------------------------------
+FirstPersonMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of FirstPersonMap Persistent Level
+ |- Always loaded Actor Count: 48 
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AccursedSkull_C_UAID_08BFB80481DF2CF601_1578306684
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/9T/PW1XKOXXZ8OO4LTB9PJDJW
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AccursedSkull_C_UAID_08BFB80481DF3FF601_2144408197
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/36/K6MTBQYXY1QT89W1QCWGGY
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AccursedSkull_C_UAID_08BFB80481DF40F601_1103793374
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/P7/ZHC9AOLINOOLZC2GG1N75S
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BigStumpPlatform_C_UAID_08BFB80481DF34F601_1844736702
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/9Q/FZEFWQOGMDJKWCN28QOPZ9
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BigStumpPlatform_C_UAID_08BFB80481DF37F601_1197402231
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/WK/PC3SYRUOBHEEDQN0VDAVLJ
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BigStumpPlatform_C_UAID_08BFB80481DF37F601_1200760232
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/2F/YZFB4NT1KQ4HG279GIXW2S
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Blueprint_Effect_Fire_GEN_VARIABLE_Blueprint_Effect_Fire_C_CAT_UAID_08BFB80481DF26F601_1486669746
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/9U/GMFR02ZMBJ83GXNJYQS7UO
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Blueprint_Effect_Fire_GEN_VARIABLE_Blueprint_Effect_Fire_C_CAT_UAID_08BFB80481DF26F601_1502610906
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/3H/8WELJM8PWS16RA9U7ET7AN
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Blueprint_Effect_Fire_GEN_VARIABLE_Blueprint_Effect_Fire_C_CAT_UAID_08BFB80481DF26F601_1510213053
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/W1/KHSNJG8S5DMM0A827HGZET
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Blueprint_Effect_Fire_GEN_VARIABLE_Blueprint_Effect_Fire_C_CAT_UAID_08BFB80481DF26F601_1541929196
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/4J/4JLSF49FM5AYU37TPISB1L
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Blueprint_Effect_Fire_GEN_VARIABLE_Blueprint_Effect_Fire_C_CAT_UAID_08BFB80481DF37F601_1208995237
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/YD/GBHTMS7ACX5EUNGTNAOYAP
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Blueprint_Effect_Fire_GEN_VARIABLE_Blueprint_Effect_Fire_C_CAT_UAID_08BFB80481DF37F601_1232645454
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/K6/2ZBKRADXHHP5V232G7IXT6
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Blueprint_Effect_Fire_GEN_VARIABLE_Blueprint_Effect_Fire_C_CAT_UAID_08BFB80481DF37F601_1238967607
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/JW/A86J21OAI2EHMOI55WITGO
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_0
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.CircleLillyPad_C_UAID_08BFB80481DF38F601_2107668964
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/K5/FBT66HMC5S78PSL2RIOXZK
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DeadTreeSkullLantern1_C_UAID_08BFB80481DF26F601_1486666744
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/9U/GMFR02ZMBJ83GXNJYQS7UO
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DeadTreeSkullLantern1_C_UAID_08BFB80481DF26F601_1502604902
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/3H/8WELJM8PWS16RA9U7ET7AN
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DeadTreeSkullLantern1_C_UAID_08BFB80481DF26F601_1510206049
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/W1/KHSNJG8S5DMM0A827HGZET
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DeadTreeSkullLantern1_C_UAID_08BFB80481DF26F601_1541922192
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/4J/4JLSF49FM5AYU37TPISB1L
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DeadTreeSkullLantern1_C_UAID_08BFB80481DF37F601_1208988233
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/YD/GBHTMS7ACX5EUNGTNAOYAP
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DeadTreeSkullLantern1_C_UAID_08BFB80481DF37F601_1232638450
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/K6/2ZBKRADXHHP5V232G7IXT6
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DeadTreeSkullLantern1_C_UAID_08BFB80481DF37F601_1238959603
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/JW/A86J21OAI2EHMOI55WITGO
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Deathplane_C_UAID_08BFB80481DF37F601_1645346784
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/77/04Q2S1QPS1ZCXS16JWG709
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DirectionalLight_1
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Emitter_UAID_08BFB80481DF28F601_1894027974
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/AU/17OSDRFVPNA8FXJ6FANP4P
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Emitter_UAID_08BFB80481DF28F601_1894028975
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/IL/VF4LZINX5BQG6G1X0BMEE5
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Emitter_UAID_08BFB80481DF28F601_1904412976
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/MF/C54F9M0T5773FL5DO4PV6M
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Emitter_UAID_08BFB80481DF28F601_1904413977
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/ND/230L8FNYAQEHKJXL4QN21Q
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_4
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PlayerStart_0
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PostProcessVolume_0
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkullLantern_GEN_VARIABLE_SkullLantern_C_CAT_UAID_08BFB80481DF26F601_1486668745
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/9U/GMFR02ZMBJ83GXNJYQS7UO
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkullLantern_GEN_VARIABLE_SkullLantern_C_CAT_UAID_08BFB80481DF26F601_1502605903
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/3H/8WELJM8PWS16RA9U7ET7AN
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkullLantern_GEN_VARIABLE_SkullLantern_C_CAT_UAID_08BFB80481DF26F601_1510206050
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/W1/KHSNJG8S5DMM0A827HGZET
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkullLantern_GEN_VARIABLE_SkullLantern_C_CAT_UAID_08BFB80481DF26F601_1541923193
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/4J/4JLSF49FM5AYU37TPISB1L
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkullLantern_GEN_VARIABLE_SkullLantern_C_CAT_UAID_08BFB80481DF37F601_1208989234
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/YD/GBHTMS7ACX5EUNGTNAOYAP
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkullLantern_GEN_VARIABLE_SkullLantern_C_CAT_UAID_08BFB80481DF37F601_1232639451
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/K6/2ZBKRADXHHP5V232G7IXT6
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkullLantern_GEN_VARIABLE_SkullLantern_C_CAT_UAID_08BFB80481DF37F601_1238960604
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/JW/A86J21OAI2EHMOI55WITGO
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_0
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_08BFB80481DF37F601_2036873785
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/9Z/TBGNZJUPR4R5H1AWOG6I4D
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_08BFB80481DFF8F501_1172106527
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/QI/4P9RQAFXC8VXD4ESGPXXWE
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/0W/E1FKEGVKGOLM7HGLQPCIPO
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldInfo_0
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldPartitionMiniMap_0
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/CR/SRVPLA8UNZ8XIIP0E036DI
+
+----------------------------------------------------------------------------------------------------------------
+FirstPersonMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
